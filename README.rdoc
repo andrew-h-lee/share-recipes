@@ -1,4 +1,7 @@
-== README
+== README ==
+Share-Recipes
+
+Welcome, this web app builds custom-made menu for users
 
 This README would normally document require steps necessary to get the
 application up and running.
