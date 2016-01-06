@@ -1,7 +1,5 @@
-== README ==
-Share-Recipes
 
-# Intro/ About Project
+# Share-Recipes Project
 This RoR web app builds custom-made menu for users
 
 ## Prerequisites / Tools Used
