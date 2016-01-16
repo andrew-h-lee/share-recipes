@@ -4,7 +4,7 @@ This RoR web app builds custom-made menu for users
 
 ## Prerequisites / Tools Used
 
-*
+* Ruby On Rails 
 
 *
 
