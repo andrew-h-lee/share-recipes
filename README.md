@@ -11,7 +11,7 @@ This RoR web app builds custom-made menu for users
 
 ## Prerequisites / Tools Used
 
-* Rails (v4.0.0)
+* Rails (v4.1.6)
 
 * Ruby (v2.1.0)
 
