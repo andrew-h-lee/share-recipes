@@ -2,30 +2,26 @@
 # Share-Recipes Project
 This RoR web app builds custom-made menu for users
 
+# Accomplished
+* Adding Categories
+* Create & Add Recipes
+* Creating Data Relationship between Recipes & Categories
+* Add Authentication
+* Improving UI Views
+
 ## Prerequisites / Tools Used
 
-* Ruby On Rails 
+* Rails (v4.0.0)
 
-*
+* Ruby (v2.1.0)
 
-*
+* MySQL
 
-*
+* Bootstrap (v3.3.0)
 
+* Sass
 
-
-## Step-by-Step Guide
-
-#### Step 
-
-
-#### Step
-
-
-
-## Reference
-
-
+* Devise
 
 ## Extra Notes
 
