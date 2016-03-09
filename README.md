@@ -1,6 +1,6 @@
 
 # Share-Recipes Project
-This RoR web app builds custom-made menu for users
+This RoR web app builds custom-made menu for users.
 
 ## Accomplished
 * Adding Categories
