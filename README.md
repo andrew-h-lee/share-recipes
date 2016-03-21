@@ -23,7 +23,7 @@ This RoR web app builds custom-made menu for users.
 
 * Devise
 
-## Extra Notes
+## Other Notes
 
 * Ruby version
 
