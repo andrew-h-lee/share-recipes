@@ -1,5 +1,5 @@
 
-# Share-Recipes Project
+# Share-Recipes App Project
 This RoR web app builds custom-made menu for users.
 
 ## Accomplished
